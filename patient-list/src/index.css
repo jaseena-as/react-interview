@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  }
+
+body {
+margin: 0;
+min-width: 320px;
+min-height: 100vh;
+background: #f8fafc;
+color: #172033;
+font-family: Inter, Arial, sans-serif;
+-webkit-font-smoothing: antialiased;
+}
+
+button,
+input,
+textarea,
+select {
+font: inherit;
+}
+
+#root {
+min-height: 100vh;
+}
